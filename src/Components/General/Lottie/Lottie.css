@@ -1,0 +1,10 @@
+#lottie-bot-div {
+    width: 100%;
+    position: fixed;
+    z-index: -1;
+    bottom: -10px;
+}
+
+#lottie-bot {
+    width: 100%;
+}

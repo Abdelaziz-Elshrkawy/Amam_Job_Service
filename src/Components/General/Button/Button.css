@@ -1,0 +1,17 @@
+.form-btn {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0 0 5px #000;
+    cursor: pointer;
+    font-size: 20px;
+    transition: 0.3s;
+}
+.form-btn:hover {
+    box-shadow: 0 0 5px #00756b;
+}
+.form-btn:active {
+    transform: scale(0.99);
+    background-color: #000;
+    color: #fff;
+}

@@ -1,0 +1,14 @@
+.page-toggle-btn{
+    border: none;
+    background-color: inherit;
+    font-size: 15px;
+    color: #00f;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 500px) {
+    .form-input{
+        width: auto;
+    }
+}
