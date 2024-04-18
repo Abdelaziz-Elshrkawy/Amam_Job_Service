@@ -43,6 +43,7 @@ function LogIn({ pageState, setPageState }) {
                         placeholder="Email"
                         value={email}
                         setValue={setEmail}
+                        type="text"
                         className={errors.email ? 'input-error' : ''}
                     />
                     <InputUnit
